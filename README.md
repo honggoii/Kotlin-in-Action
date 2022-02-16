@@ -21,4 +21,4 @@
 [부록 E. 코루틴과 Async/Await](./부록E.md) - (7/20)    
 [부록 F. 코틀린/JS](./부록F.md) - (7/20)
 
-[하준](http://www.yes24.com/Product/Goods/55148593)    
+
